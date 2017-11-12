@@ -1,21 +1,29 @@
 <template>
-  <div class="hello">
+  <div class="text-center mt-10">
+    <img src="~@/assets/logo.png">
     <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
+    <h2 class="my-3">Essential Links</h2>
+    <ul class="list-reset flex justify-center mb-4">
+      <li><a class="text-green no-underline mx-3" href="https://vuejs.org" target="_blank">Core Docs</a></li>
+      <li><a class="text-green no-underline mx-3" href="https://forum.vuejs.org" target="_blank">Forum</a></li>
+      <li><a class="text-green no-underline mx-3" href="https://chat.vuejs.org" target="_blank">Community Chat</a></li>
+      <li><a class="text-green no-underline mx-3" href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
       <br>
-      <li><a href="http://vuejs-templates.github.io/webpack/" target="_blank">Docs for This Template</a></li>
+      <li><a class="text-green no-underline mx-3" href="http://vuejs-templates.github.io/webpack/" target="_blank">Docs for This Template</a></li>
     </ul>
-    <h2>Ecosystem</h2>
-    <ul>
-      <li><a href="http://router.vuejs.org/" target="_blank">vue-router</a></li>
-      <li><a href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
-      <li><a href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
+    <h2 class="my-3">Ecosystem</h2>
+    <ul class="list-reset flex justify-center mb-4">
+      <li><a class="text-green no-underline mx-3" href="http://router.vuejs.org/" target="_blank">vue-router</a></li>
+      <li><a class="text-green no-underline mx-3" href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
+      <li><a class="text-green no-underline mx-3" href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
+      <li><a class="text-green no-underline mx-3" href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
+    </ul>
+    <h2 class="my-3">Popular Layouts</h2>
+    <ul class="list-reset flex justify-center">
+      <li><router-link class="text-green no-underline mx-3" to="/youtube">Youtube</router-link></li>
+      <li><a class="text-green no-underline mx-3" href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
+      <li><a class="text-green no-underline mx-3" href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
+      <li><a class="text-green no-underline mx-3" href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
     </ul>
   </div>
 </template>
@@ -30,21 +38,3 @@ export default {
   }
 }
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-h1, h2 {
-  font-weight: normal;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
-}
-</style>
