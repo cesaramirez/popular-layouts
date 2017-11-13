@@ -21,6 +21,7 @@
     <h2 class="my-3">Popular Layouts</h2>
     <ul class="list-reset flex justify-center">
       <li><router-link class="text-green no-underline mx-3" to="/youtube">Youtube</router-link></li>      
+      <li><router-link class="text-green no-underline mx-3" to="/facebook">Facebook</router-link></li>      
     </ul>
   </div>
 </template>
