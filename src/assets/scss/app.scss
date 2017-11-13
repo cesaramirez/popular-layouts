@@ -47,6 +47,6 @@
  * @import "utilities/skew-transforms";
  */
 
- body {
+ html, body {
    @apply .h-screen;
  }
