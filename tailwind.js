@@ -104,6 +104,8 @@ var colors = {
   'blue-lighter': '#bcdefa',
   'blue-lightest': '#eff8ff',
 
+  'blue-fb': '#3B5998',
+
   'indigo-darkest': '#191e38',
   'indigo-darker': '#2f365f',
   'indigo-dark': '#5661b3',

@@ -1,14 +1,14 @@
 <template>
   <div class="h-auto">
-      <nav class="h-14 bg-white px-12 flex items-center justify-center w-screen clearfix">
-          <p class="p-3 bg-grey-lighter rounded mr-4 w-1" justify-center></p>
+      <nav class="h-14 bg-white px-12 flex items-center justify-center w-screen">
+          <p class="p-3 bg-grey-lighter rounded mr-4"></p>
           <router-link to="/" class="py-5 bg-red rounded mr-8 w-32"></router-link>
           <div class="w-4/5">
             <p class="bg-grey-lighter py-4 w-3/4 mx-10 rounded"></p>
           </div>
-            <p class="p-3 bg-grey-lighter rounded mr-8 w-1"></p>
-            <p class="p-3 bg-grey-lighter rounded  mr-5 w-1"></p>
-            <p class="p-4 bg-blue-darker rounded-full  w-4"></p>
+            <p class="p-3 bg-grey-lighter rounded mr-8"></p>
+            <p class="p-3 bg-grey-lighter rounded  mr-5"></p>
+            <p class="p-4 bg-blue-darker rounded-full"></p>
       </nav>
       <div class="h-full flex m-4 flex-inline">
         <div class="w-3/4 mr-4 mb-4">
