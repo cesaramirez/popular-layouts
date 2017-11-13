@@ -20,10 +20,7 @@
     </ul>
     <h2 class="my-3">Popular Layouts</h2>
     <ul class="list-reset flex justify-center">
-      <li><router-link class="text-green no-underline mx-3" to="/youtube">Youtube</router-link></li>
-      <li><a class="text-green no-underline mx-3" href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
-      <li><a class="text-green no-underline mx-3" href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
-      <li><a class="text-green no-underline mx-3" href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
+      <li><router-link class="text-green no-underline mx-3" to="/youtube">Youtube</router-link></li>      
     </ul>
   </div>
 </template>
