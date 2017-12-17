@@ -7,20 +7,20 @@
             <p class="bg-grey-lighter py-4 w-3/4 mx-10 rounded"></p>
           </div>
             <p class="p-3 bg-grey-lighter rounded mr-8"></p>
-            <p class="p-3 bg-grey-lighter rounded  mr-5"></p>
+            <p class="p-3 bg-grey-lighter rounded mr-5"></p>
             <p class="p-4 bg-blue-darker rounded-full"></p>
       </nav>
       <div class="h-full flex m-4 flex-inline">
         <div class="w-3/4 mr-4 mb-4">
-          <div class="bg-black h-528 relative mb-4">            
-            <div class="bg-grey-darkest h-10 absolute pin-b pin-l w-full">            
+          <div class="bg-black h-528 relative mb-4">
+            <div class="bg-grey-darkest h-10 absolute pin-b pin-l w-full">
             </div>
           </div>
-          <div class="bg-white h-46 mb-4">            
+          <div class="bg-white h-46 mb-4">
           </div>
-          <div class="bg-white h-46">            
+          <div class="bg-white h-46">
           </div>
-        </div>        
+        </div>
         <div class="w-1/4 mb-4">
           <div class="bg-white h-full p-4">
             <div class="flex text-center mt-4 mb-4">
@@ -31,9 +31,9 @@
                 <p class="w-12 bg-grey-lighter h-3 rounded-sm"></p>
               </div>
             </div>
-            
+
             <div class="bg-grey h-px mb-4"></div>
-            
+
             <div class="flex text-center mt-4 mb-4">
               <p class="w-1/2 h-24 bg-teal-lighter mr-2"></p>
               <div class="w-1/2">
