@@ -16,5 +16,15 @@
         </div>
       </div>
     </nav>
+    <div class="h-screen bg-blue flex items-center">
+      <div class="container mx-auto">
+        <div class="h-12 bg-white w-1/4 rounded-sm mb-2"></div>
+        <div class="h-3 bg-white w-2/5 rounded-sm mb-2"></div>
+        <div class="h-3 bg-white w-2/5 rounded-sm"></div>
+      </div>
+    </div>
+    <div class="bg-red h-10">
+
+    </div>
   </div>
 </template>
