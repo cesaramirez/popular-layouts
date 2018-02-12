@@ -13,7 +13,7 @@
   "dependencies": {
     "vue": "^2.5.13",
     "vue-router": "^3.0.1",
-    "webpack": "^3.9.1"
+    "webpack": "^3.11.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
