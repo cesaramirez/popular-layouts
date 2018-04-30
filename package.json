@@ -16,7 +16,7 @@
     "webpack": "^3.9.1"
   },
   "devDependencies": {
-    "autoprefixer": "^7.1.2",
+    "autoprefixer": "^8.4.1",
     "babel-core": "^6.22.1",
     "babel-eslint": "^8.0.3",
     "babel-loader": "^7.1.1",
